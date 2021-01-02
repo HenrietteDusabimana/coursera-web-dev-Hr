@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Henriette first published website!
 
-You can use the [editor on GitHub](https://github.com/HenrietteDusabimana/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -15,11 +12,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+I am really excited to start this journey!
 
 **Bold** and _Italic_ and `Code` text
 
